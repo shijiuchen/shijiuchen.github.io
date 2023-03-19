@@ -84,7 +84,7 @@ author:
   avatar           : "site-logo.png"
   bio              : "A PhD Student in Shanghai Jiao Tong University, Contact: +86-19821288336"
   # Contract         : "+86-19821288336"
-  location         : "No. 800 Dongchuan Road, Shanghai, China"
+  location         : "No. 800 Dongchuan Road, Shanghai"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4HEvhdcAAAAJ"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shijiuchen"
+  github           : "shijiuchen"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  wechat          : "+8619821288336"
+  # wechat          : "+8619821288336"
   vine             :
   weibo            :
   xing             :
