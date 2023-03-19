@@ -21,11 +21,11 @@ Publications
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
-+ **Jiuchen Shi**, Kaihua Fu, Quan Chen, Changpeng Yang, Pengfei Huang, Mosong, Zhou, Jieru Zhao, Chen Chen, Minyi Guo. "Characterizing and orchestrating VM reservation in geo-distributed clouds to improve the resource efficiency". Proceedings of the 13th Symposium on Cloud Computing (SoCC). 2022.
-+ **Jiuchen Shi**, Jiawen Wang, Kaihua Fu, Quan Chen, Deze Zeng, Minyi Guo. "QoS-awareness of Microservices with Excessive Loads via Inter-Datacenter Scheduling". IEEE International Parallel and Distributed Processing Symposium (IPDPS). 2022.
-+ **Jiuchen Shi**, Xiaoqing Cai, Wenli Zheng, Quan Chen, Deze Zeng, Tsuchiya Tatsuhiro, Minyi Guo. "Reliability and Incentive of Performance Assessment for Decentralized Clouds". Journal of Computer Science and Technology (JCST). 2022.
-+ Kaihua Fu, **Jiuchen Shi**, Quan Chen, Ningxin Zheng, Wei Zhang, Deze Zeng, Minyi Guo. "QoS-aware irregular collaborative inference for improving throughput of DNN services". International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2022.
-+ Xiaoqing Cai, **Jiuchen Shi**, Rui Yuan, Chang Liu, Wenli Zheng, Quan Chen, Chao Li, Jingwen Leng, Minyi Guo. "OVERSEE: Outsourcing verification to enable resource sharing in edge environment". Proceedings of the 49th International Conference on Parallel Processing. 2020.
++ **Jiuchen Shi**, Kaihua Fu, Quan Chen, Changpeng Yang, Pengfei Huang, Mosong, Zhou, Jieru Zhao, Chen Chen, Minyi Guo. "Characterizing and orchestrating VM reservation in geo-distributed clouds to improve the resource efficiency". Proceedings of the 13th Symposium on Cloud Computing (SoCC). 2022. [PDF](https://jhc.sjtu.edu.cn/~chen-chen/papers/ros-socc22.pdf)
++ **Jiuchen Shi**, Jiawen Wang, Kaihua Fu, Quan Chen, Deze Zeng, Minyi Guo. "QoS-awareness of Microservices with Excessive Loads via Inter-Datacenter Scheduling". IEEE International Parallel and Distributed Processing Symposium (IPDPS). 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9820678)
++ **Jiuchen Shi**, Xiaoqing Cai, Wenli Zheng, Quan Chen, Deze Zeng, Tsuchiya Tatsuhiro, Minyi Guo. "Reliability and Incentive of Performance Assessment for Decentralized Clouds". Journal of Computer Science and Technology (JCST). 2022. [PDF](https://jcst.ict.ac.cn/fileup/1000-9000/PDF/2022-5-12-2120.pdf)
++ Kaihua Fu, **Jiuchen Shi**, Quan Chen, Ningxin Zheng, Wei Zhang, Deze Zeng, Minyi Guo. "QoS-aware irregular collaborative inference for improving throughput of DNN services". International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2022. [PDF](hhttps://www.computer.org/csdl/proceedings-article/sc/2022/544400a993/1I0bT95pjBm)
++ Xiaoqing Cai, **Jiuchen Shi**, Rui Yuan, Chang Liu, Wenli Zheng, Quan Chen, Chao Li, Jingwen Leng, Minyi Guo. "OVERSEE: Outsourcing verification to enable resource sharing in edge environment". Proceedings of the 49th International Conference on Parallel Processing. 2020. [PDF](https://dl.acm.org/doi/abs/10.1145/3404397.3404409)
 
 Projects
 ======
@@ -36,12 +36,12 @@ Projects
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 + **Joint Optimization of Compute and Network Cost among Geo-distributed Datacenters**
+- Research project collaborate with Huawei Cloud, Project Leader, 2023.02-now
+- Considering the network cost caused by the different positions between data and compute, this project decids multi-tenants' VM request scheduling and the data placement among geo-distributed datacenters, to comprehensively optimized the deployment cost.
 
-Under multi-tenants' VM requests, this project considers the network cost caused by the different positons between data and compute. It can decide the VM scheduling and the data placement among geo-distributed datacenters, to comprehensively optimized the deployment cost.
-
-+ **Resource Reservation under Ultimate Elasticity (collaborate with Huawei Cloud, 2021.09-2022.09)**
-
-Facing with different VM requests patterns of large tenants in public cloud, this project orchestrates computing resources among geo-distributed datacenters to reduce cost and support more requests.
++ **Resource Reservation under Ultimate Elasticity**
+- Research project collaborate with Huawei Cloud, Project Leader, 2021.09-2022.09
+- Facing with different VM requests patterns of large tenants in public cloud, this project orchestrates computing resources among geo-distributed datacenters to reduce cost and support more requests.
 
 <!-- Site-wide configuration
 ------
