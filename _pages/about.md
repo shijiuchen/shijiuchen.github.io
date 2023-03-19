@@ -35,10 +35,13 @@ Projects
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
-+ Regionless场景下计算和网络资源成本综合优化 (华为委托研究项目, 项目负责人, 2023.02-至今)
-面向公有云中多租户VM请求，考虑由数据和计算位置不同带来的网络开销，进行多租户虚拟机请求及数据的编排和放置，以综合优化云平台的计算和网络资源总成本。
-+ 极限弹性下的资源预留优化 (华为委托研究项目, 项目负责人, 2021.09-2022.09)
-面向公有云中大租户多样VM请求模式，在地理分布式场景中进行多租户资源预留的联合编排。通过离线及在线模块的联合设计，有效降低公有云平台计算资源预留的总成本。
++ **Joint Optimization of Compute and Network Cost among Geo-distributed Datacenters**
+
+Under multi-tenants' VM requests, this project considers the network cost caused by the different positons between data and compute. It can decide the VM scheduling and the data placement among geo-distributed datacenters, to comprehensively optimized the deployment cost.
+
++ **Resource Reservation under Ultimate Elasticity (collaborate with Huawei Cloud, 2021.09-2022.09)**
+
+Facing with different VM requests patterns of large tenants in public cloud, this project orchestrates computing resources among geo-distributed datacenters to reduce cost and support more requests.
 
 <!-- Site-wide configuration
 ------
