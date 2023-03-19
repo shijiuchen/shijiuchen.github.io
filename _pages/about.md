@@ -14,7 +14,7 @@ My research interests include Cloud Native, Microservice Resource Management, Cr
 + I am a Fourth-year Compute Science Ph.D. candidate at [Emerging Parallel Computer Center (EPCC)](http://epcc.sjtu.edu.cn/) , Shanghai Jiao Tong University, advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
 + I received my B.S. degree in software engineering from Dalian University of Technology in 2019.
 + My research interests include： Cloud Native, Microservice Resource Management, Cross-region Task Scheduling, etc.
-+ Tel: +8619821288336, Email: shijiuchen@sjtu.edu.cn
++ Tel: **+8619821288336**, Email: **shijiuchen@sjtu.edu.cn**
 
 Publications
 ======
@@ -36,12 +36,12 @@ Projects
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 + **Joint Optimization of Compute and Network Cost among Geo-distributed Datacenters**
-- Research project collaborate with Huawei Cloud, Project Leader, 2023.02-now
-- Considering the network cost caused by the different positions between data and compute, this project decids multi-tenants' VM request scheduling and the data placement among geo-distributed datacenters, to comprehensively optimized the deployment cost.
+    - Research project collaborate with Huawei Cloud, Project Leader, 2023.02-now
+    - Considering the network cost caused by the different positions between data and compute, this project decids multi-tenants' VM request scheduling and the data placement among geo-distributed datacenters, to comprehensively optimized the deployment cost.
 
 + **Resource Reservation under Ultimate Elasticity**
-- Research project collaborate with Huawei Cloud, Project Leader, 2021.09-2022.09
-- Facing with different VM requests patterns of large tenants in public cloud, this project orchestrates computing resources among geo-distributed datacenters to reduce cost and support more requests.
+    - Research project collaborate with Huawei Cloud, Project Leader, 2021.09-2022.09
+    - Facing with different VM requests patterns of large tenants in public cloud, this project orchestrates computing resources among geo-distributed datacenters to reduce cost and support more requests.
 
 <!-- Site-wide configuration
 ------
