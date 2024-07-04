@@ -72,6 +72,10 @@ Projects
     - Research project collaborate with Huawei Cloud, Project Leader, 2021.09-2022.09
     - Facing with different VM requests patterns of large tenants in public cloud, this project orchestrates computing resources among geo-distributed datacenters to reduce cost and support more requests.
 
+Professional Services
+======
++ Invited reviewer for <a href="https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing">JPDC</a>
+
 <!-- Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
