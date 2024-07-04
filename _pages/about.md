@@ -30,7 +30,8 @@ My research interests include Cloud Native, Microservice Resource Management, Cr
 + I received my B.S. degree in software engineering from Dalian University of Technology in 2019.
 + My research interests include： Cloud Native, Microservice Resource Management, Cross-region Task Scheduling, etc.
 + Tel: **+8619821288336**, Email: **shijiuchen@sjtu.edu.cn**
-+ Latest CV: [English](https://shijiuchen.github.io/files/CV-English.pdf) [Chinese](https://shijiuchen.github.io/files/CV-Chinese.pdf)
++ Latest CV: [English](https://shijiuchen.github.io/files/CV-English.pdf) 
+<!-- [Chinese](https://shijiuchen.github.io/files/CV-Chinese.pdf) -->
 
 Publications
 ======
