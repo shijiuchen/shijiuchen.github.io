@@ -56,6 +56,12 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 <!-- + Kaihua Fu, **Jiuchen Shi**, Quan Chen, Ningxin Zheng, Wei Zhang, Deze Zeng, Minyi Guo. "QoS-aware irregular collaborative inference for improving throughput of DNN services". International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2022. [PDF](hhttps://www.computer.org/csdl/proceedings-article/sc/2022/544400a993/1I0bT95pjBm) -->
 <!-- + Xiaoqing Cai, **Jiuchen Shi**, Rui Yuan, Chang Liu, Wenli Zheng, Quan Chen, Chao Li, Jingwen Leng, Minyi Guo. "OVERSEE: Outsourcing verification to enable resource sharing in edge environment". Proceedings of the 49th International Conference on Parallel Processing. 2020. [PDF](https://dl.acm.org/doi/abs/10.1145/3404397.3404409) -->
 
+Honors & Awards
+======
++ Shanghai Jiao Tong University Graduate Special Scholarship (Huatai Securities Technology Scholarship, 2023)
++ Shanghai Jiao Tong University Excellent Student (2023)
++ National Scholarship for Undergraduate Students (2018)
+
 Projects
 ======
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
