@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiuchen Shi 史久琛"
   avatar           : "sjc.png"
-  # bio              : "A PhD Student in Shanghai Jiao Tong University, Contact: +86-19821288336"
-  bio              : "Emerging Parallel Computing Center, Shanghai Jiao Tong University; Internet and Mobile Computing Lab, The Hong Kong Polytechnic University"
+  bio              : "Internet and Mobile Computing Lab, The Hong Kong Polytechnic University"
+  bio              : "Emerging Parallel Computing Center, Shanghai Jiao Tong University"
   # Contract         : "+86-19821288336"
   location         : "Shanghai/Hongkong"
   employer         :
