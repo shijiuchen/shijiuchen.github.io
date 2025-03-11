@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Jiuchen Shi 史久琛"
   avatar           : "sjc.png"
-  bio              : "A PhD Student in Shanghai Jiao Tong University, Contact: +86-19821288336"
+  # bio              : "A PhD Student in Shanghai Jiao Tong University, Contact: +86-19821288336"
+  bio              : "Emerging Parallel Computing Center, Shanghai Jiao Tong University; Internet and Mobile Computing Lab, The Hong Kong Polytechnic University"
   # Contract         : "+86-19821288336"
-  location         : "No. 800 Dongchuan Road, Shanghai"
+  location         : "Shanghai/Hongkong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4HEvhdcAAAAJ"
-  email            :
+  email            : "shijiuchen@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

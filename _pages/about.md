@@ -26,11 +26,12 @@ redirect_from:
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 <!-- I received my B.S. degree in software engineering from Dalian University of Technology, Dalian, in 2019. I am currently a Ph.D. candidate in the Department of COmpute Science and Engineering of Shanghai Jiao Tong University, Shanghai
 My research interests include Cloud Native, Microservice Resource Management, Cross-region Task Scheduling, etc. -->
-+ I am a Fifth-year Computer Science Ph.D. candidate at [Emerging Parallel Computer Center (EPCC)](http://epcc.sjtu.edu.cn/) , Shanghai Jiao Tong University, advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
-+ I received my B.S. degree in software engineering from Dalian University of Technology in 2019.
-+ My research interests include： Cloud Native, Microservice Resource Management, Cross-region Task Scheduling, etc.
-+ Tel: **+8619821288336**, Email: **shijiuchen@sjtu.edu.cn**
-+ Latest CV: [English](https://shijiuchen.github.io/files/CV-English.pdf) [Chinese](https://shijiuchen.github.io/files/CV-Chinese.pdf)
+<!-- + I am a Fifth-year Computer Science Ph.D. candidate at [Emerging Parallel Computer Center (EPCC)](http://epcc.sjtu.edu.cn/) , Shanghai Jiao Tong University, advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). -->
++ He received his Ph.D. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2024, supervised by [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/).
++ He received my B.S. degree in software engineering from Dalian University of Technology in 2019.
++ His research interests include： Cloud-native systems, Disaggregated datacenters, LLM inference and fine-tuning, etc.
+<!-- + Tel: **+8619821288336**, Email: **shijiuchen@sjtu.edu.cn** -->
+<!-- + Latest CV: [English](https://shijiuchen.github.io/files/CV-English.pdf) [Chinese](https://shijiuchen.github.io/files/CV-Chinese.pdf) -->
 
 Publications
 ======
@@ -38,7 +39,7 @@ Publications
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
-**^Equal contribution**
+*^Equal contribution*
 
 <ul>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Zhixin Tong^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen, Pu Pang, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators". <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
