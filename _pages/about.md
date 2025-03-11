@@ -27,9 +27,11 @@ redirect_from:
 <!-- I received my B.S. degree in software engineering from Dalian University of Technology, Dalian, in 2019. I am currently a Ph.D. candidate in the Department of COmpute Science and Engineering of Shanghai Jiao Tong University, Shanghai
 My research interests include Cloud Native, Microservice Resource Management, Cross-region Task Scheduling, etc. -->
 <!-- + I am a Fifth-year Computer Science Ph.D. candidate at [Emerging Parallel Computer Center (EPCC)](http://epcc.sjtu.edu.cn/) , Shanghai Jiao Tong University, advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). -->
-+ He received his Ph.D. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2024, supervised by [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/).
-+ He received my B.S. degree in software engineering from Dalian University of Technology in 2019.
-+ His research interests include： Cloud-native systems, Disaggregated datacenters, LLM inference and fine-tuning, etc.
++ I received his Ph.D. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2024, supervised by [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/).
++ I received my B.S. degree in software engineering from Dalian University of Technology in 2019.
++ My research interests include: Cloud-native systems, Disaggregated datacenters, LLM inference and fine-tuning, etc. If you are interested in my research topic, feel free to email me.
+
+
 <!-- + Tel: **+8619821288336**, Email: **shijiuchen@sjtu.edu.cn** -->
 <!-- + Latest CV: [English](https://shijiuchen.github.io/files/CV-English.pdf) [Chinese](https://shijiuchen.github.io/files/CV-Chinese.pdf) -->
 
@@ -63,6 +65,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Honors & Awards
 ======
++ Shanghai Jiao Tong University Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund (2024)
++ Postdoc fund from Huawei Advanced Computing Department (2024)
 + Shanghai Jiao Tong University Graduate Special Scholarship (Huatai Securities Technology Scholarship, 2023)
 + Shanghai Jiao Tong University Excellent Student (2023)
 + Outstanding Undergraduate Graduate of Liaoning Province (2019)
@@ -77,7 +81,7 @@ Projects
 4. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 5. Check status by going to the repository settings, in the "GitHub pages" section -->
 + **Joint Optimization of Compute and Network Cost among Geo-distributed Datacenters**
-    - Research project collaborate with Huawei Cloud, Project Leader, 2023.02-now
+    - Research project collaborate with Huawei Cloud, Project Leader, 2023.02-2024.03
     - Considering the network cost caused by the different positions between data and compute, this project decids multi-tenants' VM request scheduling and the data placement among geo-distributed datacenters, to comprehensively optimized the deployment cost.
 
 + **Resource Reservation under Ultimate Elasticity**
