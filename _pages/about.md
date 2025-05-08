@@ -42,6 +42,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 *^Equal contribution*
 
+**Published Papers:**
+
 <ul>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Zhixin Tong^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen, Pu Pang, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators". <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen, Pu Pang, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling". <a href="https://arxiv.org/abs/2412.19083">[paper]</a></li>
