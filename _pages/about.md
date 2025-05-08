@@ -46,7 +46,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 <ul>
 <li><div class="pubtitle">ARXIV</div> &nbsp;Hang Zhang^, <span class="font-bold">Jiuchen Shi^</span>, Yixiao Wang, Quan Chen, Yizhou Shan, Minyi Guo. "Improving the Serving Performance of Multi-LoRA Large Language Models via Efficient LoRA and KV Cache Management". <a href="https://arxiv.org/abs/2505.03756">[paper]</a></li>
-<li><div class="pubtitle">ARXIV</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Li Li, Minyi Guo. "A Microservice Graph Generator with Production Characteristics". <a href="https://arxiv.org/abs/2412.19083">[paper]</a></li>
+<!-- <li><div class="pubtitle">ARXIV</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Li Li, Minyi Guo. "A Microservice Graph Generator with Production Characteristics". <a href="https://arxiv.org/abs/2412.19083">[paper]</a></li> -->
 </ul>
 
 
