@@ -40,13 +40,13 @@ Publications
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
-*^Equal contribution*, **Corresponding Author*
+*^Equal contribution*, **Corresponding author*
 
 **Preprint Papers:**
 
 <ul>
 <li><div class="pubtitle">ARXIV</div> &nbsp;Hang Zhang^, <span class="font-bold">Jiuchen Shi^</span>, Yixiao Wang, Quan Chen, Yizhou Shan, Minyi Guo. "Improving the Serving Performance of Multi-LoRA Large Language Models via Efficient LoRA and KV Cache Management". <a href="https://arxiv.org/abs/2505.03756">[paper]</a></li>
-<!-- <li><div class="pubtitle">ARXIV</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Li Li, Minyi Guo. "A Microservice Graph Generator with Production Characteristics". <a href="https://arxiv.org/abs/2412.19083">[paper]</a></li> -->
+<li><div class="pubtitle">ARXIV</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Li Li, Minyi Guo. "A Microservice Graph Generator with Production Characteristics". <a href="https://arxiv.org/abs/2412.19083">[paper]</a></li>
 </ul>
 
 
@@ -55,6 +55,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 <ul>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Zhixin Tong^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen, Pu Pang, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators". <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen, Pu Pang, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling". <a href="https://arxiv.org/abs/2412.19083">[paper]</a></li>
+<li><div class="pubtitle">APPT 2025</div> &nbsp;Jinyuan Chen, <span class="font-bold">Jiuchen Shi*</span>, Quan Chen, Lin Gu, Minyi Guo. "Veyth: Adaptive Container Placement for Optimizing Cross-Server Network Traffic of Microservice Applications". <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
+<li><div class="pubtitle">APPT 2025</div> &nbsp;Ruogang Ma, <span class="font-bold">Jiuchen Shi*</span>, Quan Chen, Minyi Guo. "Comber: QoS-aware and Efficient Deployment for Co-located Microservices and Best-Effort Tasks in Disaggregated Datacenters". <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
 <li><div class="pubtitle">TPDS 2024</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Kaihua Fu, Jiawen Wang, Quan Chen, Deze Zeng, Minyi Guo. "Adaptive QoS-aware Microservice Deployment with Excessive Loads via Intra- and Inter-Datacenter Scheduling". <a href="https://ieeexplore.ieee.org/document/10592806">[paper]</a></li>
 <li><div class="pubtitle">USENIX ATC 2023</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Quan Chen, Zhixin Tong, Hang Zhang, Kaihua Fu, Minyi Guo. "Nodens: Enabling Resource Efficient and Fast QoS Recovery of Dynamic Microservice Applications in Datacenters". <a href="https://shijiuchen.github.io/files/Nodens.pdf">[paper]</a></li>
 <li><div class="pubtitle">SC 2023</div> &nbsp;Kaihua Fu, Quan Chen, Yuzhuo Yang, <span class="font-bold">Jiuchen Shi</span>, Chao Li, Minyi Guo. "BLAD: Adaptive Load Balanced Scheduling and Operator Overlap Pipeline For Accelerating The Dynamic GNN Training". <a href="https://dl.acm.org/doi/10.1145/3581784.3607040">[paper]</a></li>
