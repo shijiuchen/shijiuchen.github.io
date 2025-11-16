@@ -62,7 +62,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 <li><div class="pubtitle">TPDS 2024</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Kaihua Fu, Jiawen Wang, Quan Chen*, Deze Zeng, Minyi Guo. "Adaptive QoS-aware Microservice Deployment with Excessive Loads via Intra- and Inter-Datacenter Scheduling". <span class="font-bold">(CCF-A)</span>. <a href="https://ieeexplore.ieee.org/document/10592806">[paper]</a></li>
 <li><div class="pubtitle">USENIX ATC 2023</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Quan Chen*, Zhixin Tong, Hang Zhang, Kaihua Fu, Minyi Guo*. "Nodens: Enabling Resource Efficient and Fast QoS Recovery of Dynamic Microservice Applications in Datacenters". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/Nodens.pdf">[paper]</a></li>
 <li><div class="pubtitle">SC 2023</div> &nbsp;Kaihua Fu, Quan Chen*, Yuzhuo Yang, <span class="font-bold">Jiuchen Shi</span>, Chao Li, Minyi Guo*. "BLAD: Adaptive Load Balanced Scheduling and Operator Overlap Pipeline For Accelerating The Dynamic GNN Training". <span class="font-bold">(CCF-A)</span>. <a href="https://dl.acm.org/doi/10.1145/3581784.3607040">[paper]</a></li>
-<li><div class="pubtitle">SoCC 2022</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Kaihua Fu, Quan Chen*, Changpeng Yang, Pengfei Huang, Mosong, Zhou, Jieru Zhao, Chen Chen, Minyi Guo*. "Characterizing and orchestrating VM reservation in geo-distributed clouds to improve the resource efficiency". <span class="font-bold">(CCF-B,CS-Ranking)</span>. <a href="https://shijiuchen.github.io/files/ROS.pdf">[paper]</a></li>
+<li><div class="pubtitle">SoCC 2022</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Kaihua Fu, Quan Chen*, Changpeng Yang, Pengfei Huang, Mosong, Zhou, Jieru Zhao, Chen Chen, Minyi Guo*. "Characterizing and orchestrating VM reservation in geo-distributed clouds to improve the resource efficiency". <span class="font-bold">(CCF-B)</span>. <a href="https://shijiuchen.github.io/files/ROS.pdf">[paper]</a></li>
 <li><div class="pubtitle">IPDPS 2022</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Jiawen Wang, Kaihua Fu, Quan Chen*, Deze Zeng*, Minyi Guo*. "QoS-awareness of Microservices with Excessive Loads via Inter-Datacenter Scheduling". <span class="font-bold">(CCF-B)</span>. <a href="https://shijiuchen.github.io/files/ELIS.pdf">[paper]</a></li>
 <li><div class="pubtitle">JCST 2022</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Xiaoqing Cai, Wenli Zheng, Quan Chen, Deze Zeng, Tsuchiya Tatsuhiro, Minyi Guo*. "Reliability and Incentive of Performance Assessment for Decentralized Clouds". <span class="font-bold">(CCF-B)</span>. <a href="https://shijiuchen.github.io/files/RODE.pdf">[paper]</a></li>
 <li><div class="pubtitle">SC 2022</div> &nbsp;Kaihua Fu, <span class="font-bold">Jiuchen Shi</span>, Quan Chen*, Ningxin Zheng, Wei Zhang, Deze Zeng, Minyi Guo*. "QoS-aware irregular collaborative inference for improving throughput of DNN services". <span class="font-bold">(CCF-A)</span>. <a href="https://ieeexplore.ieee.org/document/10046047">[paper]</a></li>
@@ -78,6 +78,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Honors & Awards
 ======
++ Chinese Journal of Computers Best Paper Award (2020-2024)
 + Shanghai Jiao Tong University Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund (2024)
 + Postdoc fund from Huawei Advanced Computing Department (2024)
 + Shanghai Jiao Tong University Graduate Special Scholarship (Huatai Securities Technology Scholarship, 2023)
@@ -103,6 +104,7 @@ Projects
 
 Professional Services
 ======
++ Program Committee Reviewer of <a href="http://ieee-icpads.org.cn/">ICPADS 2025<a>
 + Invited reviewer for <a href="https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing">JPDC</a>, <a href="https://onlinelibrary.wiley.com/journal/15320634">CCPE</a>
 
 <!-- Site-wide configuration
