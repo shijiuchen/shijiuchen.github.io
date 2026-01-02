@@ -77,11 +77,17 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 <!-- + Kaihua Fu, **Jiuchen Shi**, Quan Chen, Ningxin Zheng, Wei Zhang, Deze Zeng, Minyi Guo. "QoS-aware irregular collaborative inference for improving throughput of DNN services". International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2022. [PDF](hhttps://www.computer.org/csdl/proceedings-article/sc/2022/544400a993/1I0bT95pjBm) -->
 <!-- + Xiaoqing Cai, **Jiuchen Shi**, Rui Yuan, Chang Liu, Wenli Zheng, Quan Chen, Chao Li, Jingwen Leng, Minyi Guo. "OVERSEE: Outsourcing verification to enable resource sharing in edge environment". Proceedings of the 49th International Conference on Parallel Processing. 2020. [PDF](https://dl.acm.org/doi/abs/10.1145/3404397.3404409) -->
 
+**Patents:**
+<ul>
+<li>基于跨地域的微服务过量负载调度系统、方法及设备. 发明人: 陈全, 过敏意, <span class="font-bold">史久琛</span>. 专利号: ZL 2022 1 0583583.X. 授权公开日: 2023年11月17日. 授权公告号: CN 115190121 B</li>
+</ul>
+
 Honors & Awards
 ======
+<!-- super xxx-->
 + Chinese Journal of Computers Best Paper Award (2020-2024)
++ Postdoc fund from Huawei Advanced Computing Department (2025-2026)
 + Shanghai Jiao Tong University Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund (2024)
-+ Postdoc fund from Huawei Advanced Computing Department (2024)
 + Shanghai Jiao Tong University Graduate Special Scholarship (Huatai Securities Technology Scholarship, 2023)
 + Shanghai Jiao Tong University Excellent Student (2023)
 + Outstanding Undergraduate Graduate of Liaoning Province (2019)
@@ -95,6 +101,7 @@ Projects
 3. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 4. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 5. Check status by going to the repository settings, in the "GitHub pages" section -->
+<!--+ **Microservices ...** -->
 + **Joint Optimization of Compute and Network Cost among Geo-distributed Datacenters**
     - Research project collaborate with Huawei Cloud, Project Leader, 2023.02-2024.03
     - Considering the network cost caused by the different positions between data and compute, this project decids multi-tenants' VM request scheduling and the data placement among geo-distributed datacenters, to comprehensively optimized the deployment cost.
@@ -105,8 +112,12 @@ Projects
 
 Professional Services
 ======
++ Invited reviewer for Journal of Parallel and Distributed Computing <a href="https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing">(JPDC)</a>
++ Invited reviewer for Concurrency and Computation: Practice and Experience <a href="https://onlinelibrary.wiley.com/journal/15320634">(CCPE)</a>
++ Invited reviewer for IEEE Transactions on Cloud Computing <a href="https://www.computer.org/csdl/journal/cc">(TCC)</a>
 + Program Committee Reviewer of <a href="http://ieee-icpads.org.cn/">ICPADS 2025<a>
-+ Invited reviewer for <a href="https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing">JPDC</a>, <a href="https://onlinelibrary.wiley.com/journal/15320634">CCPE</a>, <a href="https://www.computer.org/csdl/journal/cc">TCC</a>
++ Program Committee Reviwer of <a href="https://www.polyu.edu.hk/comp/news-and-events/news/2025/0625_rs-conference-2025/">PolyU COMP - HKUST (GZ) INFH Research Student Conference<a>
+<!-- + 中国计算机学会分布式系统专委 "执行委员", 2025年CCF优博论坛志愿者 -->
 
 <!-- Site-wide configuration
 ------
