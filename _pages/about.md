@@ -55,7 +55,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 <ul>
 <li><div class="pubtitle">HPCA 2026</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Hang Zhang, Yixiao Wang, Quan Chen*, Yizhou Shan, Kaihua Fu, Wei Wang, Minyi Guo. "ELORA: Efficient LoRA and KV Cache Management for Multi-LoRA LLM Serving". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
-<li><div class="pubtitle">TACO 2026</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Jinyuan Chen, Quan Chen*, Kaihua Fu, Fanrong Du, Zijun Li, Deze Zeng, Jiannong Cao, Shuo Quan, Jie Wu, Minyi Guo. "Delphinus: Improving Resource Scaling Efficiency of Applications with Diverse Queries". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
+<li><div class="pubtitle">TACO 2026</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Jinyuan Chen, Quan Chen*, Kaihua Fu, Fanrong Du, Zijun Li, Deze Zeng, Jiannong Cao, Shuo Quan, Jie Wu, Minyi Guo. "Delphinus: Improving Resource Scaling Efficiency of Applications with Shared Microservices and Diverse Queries". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Zhixin Tong^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen*, Pu Pang, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators". <span class="font-bold">(CCF-B,CS-Ranking)</span>. <a href="https://dl.acm.org/doi/10.1145/3721145.3725752">[paper]</a></li>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen*, Pu Pang, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling". <span class="font-bold">(CCF-B,CS-Ranking)</span>. <a href="https://dl.acm.org/doi/abs/10.1145/3721145.3725761">[paper]</a></li>
 <li><div class="pubtitle">TC 2025</div> &nbsp;Kaihua Fu, <span class="font-bold">Jiuchen Shi</span>, Quan Chen*, Bingsheng He, Yao Chen, Weng-Fai Wong, Wei Wang, Minyi Guo. "QoS Awareness and Improved Throughput of Point Cloud Services with Dynamic Workloads". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
@@ -113,6 +113,7 @@ Projects
 
 Professional Services
 ======
++ Invited reviewer for Transactions on Parallel and Distributed Systems <a href="https://www.computer.org/csdl/journal/td">(TPDS)</a>
 + Invited reviewer for Journal of Parallel and Distributed Computing <a href="https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing">(JPDC)</a>
 + Invited reviewer for Concurrency and Computation: Practice and Experience <a href="https://onlinelibrary.wiley.com/journal/15320634">(CCPE)</a>
 + Invited reviewer for IEEE Transactions on Cloud Computing <a href="https://www.computer.org/csdl/journal/cc">(TCC)</a>
