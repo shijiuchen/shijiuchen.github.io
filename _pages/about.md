@@ -54,8 +54,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 **Published Papers:**
 
 <ul>
-<li><div class="pubtitle">HPCA 2026</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Hang Zhang, Yixiao Wang, Quan Chen*, Yizhou Shan, Kaihua Fu, Wei Wang, Minyi Guo. "ELORA: Efficient LoRA and KV Cache Management for Multi-LoRA LLM Serving". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
-<li><div class="pubtitle">TACO 2026</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Jinyuan Chen, Quan Chen*, Kaihua Fu, Fanrong Du, Zijun Li, Deze Zeng, Jiannong Cao, Shuo Quan, Jie Wu, Minyi Guo. "Delphinus: Improving Resource Scaling Efficiency of Applications with Shared Microservices and Diverse Queries". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
+<li><div class="pubtitle">HPCA 2026</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Hang Zhang, Yixiao Wang, Quan Chen*, Yizhou Shan, Kaihua Fu, Wei Wang, Minyi Guo. "ELORA: Efficient LoRA and KV Cache Management for Multi-LoRA LLM Serving". <span class="font-bold">(CCF-A)</span>. <a href="https://ieeexplore.ieee.org/abstract/document/11408492">[paper]</a></li>
+<li><div class="pubtitle">TACO 2026</div> &nbsp;<span class="font-bold">Jiuchen Shi</span>, Jinyuan Chen, Quan Chen*, Kaihua Fu, Fanrong Du, Zijun Li, Deze Zeng, Jiannong Cao, Shuo Quan, Jie Wu, Minyi Guo. "Delphinus: Improving Resource Scaling Efficiency of Applications with Shared Microservices and Diverse Queries". <span class="font-bold">(CCF-A)</span>. <a href="https://dl.acm.org/doi/10.1145/3815585">[paper]</a></li>
+<li><div class="pubtitle">ICPP 2026</div> &nbsp;Zichen Xu, Zijun Li, Quan Chen*, <span class="font-bold">Jiuchen Shi</span>, Zhuang Yang, Zhen Wang, Qisong Zheng, Wenjie Zhang, Minyi Guo. "Microservices Scheduling with ReS Model: Characterization, Regulation and Metrics". <span class="font-bold">(CCF-B)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Zhixin Tong^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen*, Pu Pang, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators". <span class="font-bold">(CCF-B,CS-Ranking)</span>. <a href="https://dl.acm.org/doi/10.1145/3721145.3725752">[paper]</a></li>
 <li><div class="pubtitle">ICS 2025</div> &nbsp;Fanrong Du^, <span class="font-bold">Jiuchen Shi^</span>, Quan Chen*, Pu Pang, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling". <span class="font-bold">(CCF-B,CS-Ranking)</span>. <a href="https://dl.acm.org/doi/abs/10.1145/3721145.3725761">[paper]</a></li>
 <li><div class="pubtitle">TC 2025</div> &nbsp;Kaihua Fu, <span class="font-bold">Jiuchen Shi</span>, Quan Chen*, Bingsheng He, Yao Chen, Weng-Fai Wong, Wei Wang, Minyi Guo. "QoS Awareness and Improved Throughput of Point Cloud Services with Dynamic Workloads". <span class="font-bold">(CCF-A)</span>. <a href="https://shijiuchen.github.io/files/xx.pdf">[paper]</a></li>
@@ -80,7 +81,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 **Patents:**
 <ul>
-<li>基于跨地域的微服务过量负载调度系统、方法及设备. 发明人: 陈全, 过敏意, <span class="font-bold">史久琛</span>. 专利号: ZL 2022 1 0583583.X. 授权公开日: 2023年11月17日. 授权公告号: CN 115190121 B</li>
+<li>基于跨地域的微服务过量负载调度系统、方法及设备. 发明人: 陈全, 过敏意, <span class="font-bold">史久琛</span>. 专利号: ZL 2022 1 0583583.X. 授权公开日: 2023年11月17日. 授权公告号: CN 115190121 B. 授权</li>
+<li>面向动态性特征的微服务应用优化资源管理系统及方法. 发明人: 陈全, 过敏意, <span class="font-bold">史久琛</span>, 仝志欣, 张行. 申请号：202310754097.4. 授权</li>
 </ul>
 
 Honors & Awards
